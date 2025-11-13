@@ -72,24 +72,5 @@ A Subway Surfers-inspired endless runner game built with Three.js, featuring a M
 - `audio.js` - Audio manager with sound effects and music
 - `README.md` - Project documentation
 
-## Browser Compatibility
-
-- Chrome/Edge (recommended)
-- Firefox
-- Safari
-- Opera
-
-Requires WebGL support for 3D rendering.
-
-## Configuration
-
-Edit the CONFIG object in `game.js` to customize:
-- Lane dimensions and count
-- Player and obstacle speeds
-- Spawn rates and distances
-- Jump and slide parameters
-- Audio settings
-
-## License
 
 Free to use and modify for personal and educational purposes.
