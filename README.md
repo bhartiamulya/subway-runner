@@ -19,18 +19,10 @@ A Subway Surfers-inspired endless runner game built with Three.js, featuring a M
 
 ## Controls
 
-- **← → Arrow Keys**: Switch lanes (left/right)
-- **↑ Arrow / Space**: Jump
-- **↓ Arrow**: Slide
+- **Arrow Keys**: Switch lanes (left/right)
+- **Arrow / Space**: Jump
+- **Arrow**: Slide
 - **Escape**: Pause game
-
-## How to Play
-
-1. Open `index.html` in a modern web browser
-2. Click "START GAME" to begin
-3. Avoid obstacles by switching lanes, jumping, or sliding
-4. Collect coins for bonus points
-5. Survive as long as possible to achieve a high score
 
 ## Game Elements
 
@@ -73,4 +65,3 @@ A Subway Surfers-inspired endless runner game built with Three.js, featuring a M
 - `README.md` - Project documentation
 
 
-Free to use and modify for personal and educational purposes.
